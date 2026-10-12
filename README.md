@@ -22,6 +22,6 @@ The initial set includes **48 provisional Bay Square company/business records** 
 
 Research and uncertain working notes are handled in a **separate private repository**, not here. New public exports must pass provenance, privacy, translation, location and licensing checks. No automated daily publishing is configured yet.
 
-**Origin:** Migrated on 2026-10-12 from `loaderxxx/personal-ai-ops`, branch `work/chatgpt/20261012-bay-square-atlas-mvp`, source commit `d5bac3da5aa8e7525011c9db79037be263613298`. Content is copied with attribution to its source branch; full commit history is not imported.
+**Origin:** Public-safe extract of an internal Bay Square pilot as of 2026-10-12. Detailed source-commit provenance and the full research archive are retained only in the private research workspace; the original repository history was not imported.
 
 **Privacy:** No owner's private contacts, meeting records, business cards, client information or private AI OS instructions belong in this repository.
