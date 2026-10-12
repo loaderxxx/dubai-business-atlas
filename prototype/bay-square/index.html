@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0a1825">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="description" content="Independent, source-linked multilingual pilot directory of companies and services in Bay Square, Business Bay, Dubai.">
+  <title>Bay Square Atlas — Dubai Company Directory</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./catalog.js"></script><script defer src="./app.js"></script>
+</head>
+<body>
+  <div class="topline"></div>
+  <header class="header shell">
+    <a class="brand" href="#" aria-label="Bay Square Atlas home">
+      <span class="mark" aria-hidden="true"><b></b><b></b><b></b><b></b></span>
+      <span><strong>BAY SQUARE</strong><small>COMPANY ATLAS <span class="brand-sub">/ DUBAI</span></small></span>
+    </a>
+    <div class="header-tools"><span id="headerLabel" class="research-tag">INDEPENDENT RESEARCH · PILOT</span>
+      <nav aria-label="Language" class="languages">
+        <button type="button" data-lang="en" class="on" aria-pressed="true">EN</button>
+        <button type="button" data-lang="ru" aria-pressed="false">RU</button>
+        <button type="button" data-lang="ar" aria-pressed="false">العربية</button>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <section class="hero">
+      <div class="shell hero-layout">
+        <div class="hero-content">
+          <p id="eyebrow" class="eyebrow">BUSINESS BAY · DUBAI, UAE</p>
+          <h1 id="heroTitle">Find the right company.<br><em>Discover the right expertise.</em></h1>
+          <p id="heroDesc" class="hero-copy">An independent, source-linked guide to the people, offices and businesses of Bay Square. Search in English, Русский or العربية.</p>
+          <a href="#directory" id="browseLink" class="main-cta">Explore the directory <span aria-hidden="true">↗</span></a>
+          <div class="hero-stats" aria-label="Directory overview">
+            <div><b id="statCompanies">0</b><span id="statCompaniesLabel">Companies</span></div>
+            <div><b id="statSectors">0</b><span id="statSectorsLabel">Sectors</span></div>
+            <div><b>03</b><span id="statLanguagesLabel">Languages</span></div>
+          </div>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="art-cross a1"></div><div class="art-cross a2"></div><div class="art-cross a3"></div>
+          <span class="art-tag t1">25.186° N</span><span class="art-tag t2">BUSINESS BAY</span>
+          <div class="art-geometry"><div class="layer l1"></div><div class="layer l2"></div><div class="layer l3"></div><div class="layer l4"></div></div>
+          <span class="art-center">BAY<br><b>SQUARE</b></span>
+          <span class="art-tag t3">DUBAI · UAE</span>
+        </div>
+      </div>
+    </section>
+    <section id="directory" class="directory shell">
+      <div class="section-head"><div><p id="dirOverline" class="kicker">THE DIRECTORY / 001</p><h2 id="directoryTitle">Discover Bay Square</h2><p id="directorySub" class="muted">Curated business profiles with traceable sources.</p></div>
+        <span class="edition">EDITION 01 <span>·</span> OCT 2026</span></div>
+      <div class="searchbar"><span class="search-icon" aria-hidden="true">⌕</span><input id="search" type="search" autocomplete="off" placeholder="Search companies, expertise, building…" aria-label="Search companies"><button id="clearSearch" type="button" class="clear" aria-label="Clear search">×</button></div>
+      <div id="filters" class="filters" role="group" aria-label="Filter by industry"></div>
+      <div class="list-meta"><span id="shown">Showing profiles</span><span id="verificationNote">Source status shown on each profile</span></div>
+      <div id="grid" class="grid" aria-live="polite"></div>
+      <div id="empty" class="empty" hidden><h3 id="emptyTitle">Nothing found</h3><p id="emptyText">Try another company, sector, keyword or building number.</p></div>
+    </section>
+    <section class="research shell" id="method">
+      <div class="method-card"><p class="kicker" id="methodKicker">WHY THIS ATLAS EXISTS</p><h2 id="methodTitle">Every company has a story. Every fact needs a source.</h2>
+        <p id="methodBody">This early research release brings publicly available company information into one multilingual, searchable view. It is not an official Bay Square publication. Some building and suite numbers still require on-site confirmation.</p>
+        <div class="method-links"><a id="officialDir" href="https://www.baysquare.ae/en/directory" target="_blank" rel="noopener noreferrer">Bay Square official directory ↗</a><a id="govDir" href="https://www.investindubai.gov.ae/en/dubai-business-directory-search" target="_blank" rel="noopener noreferrer">Dubai government business directory ↗</a></div>
+      </div>
+      <div class="method-side"><span class="side-number">01 / 03</span><h3 id="methodStepsTitle">Our research standard</h3><div id="methodSteps"></div></div>
+    </section>
+  </main>
+  <footer class="footer"><div class="shell footer-inner"><div><strong>BAY SQUARE ATLAS</strong><p id="footerDisclaimer">Independent pilot. Not affiliated with or endorsed by Bay Square or any listed company.</p></div><div class="footer-end"><span>BUSINESS BAY, DUBAI</span><span id="footerDate">DATA REVIEW · 12 OCT 2026</span></div></div></footer>
+  <div id="overlay" class="overlay" hidden><div class="backdrop" data-close="yes"></div><section class="profile" role="dialog" aria-modal="true" aria-labelledby="profileName">
+    <button id="closeProfile" class="close-profile" aria-label="Close profile">×</button>
+    <div id="profileBody"></div></section></div>
+</body></html>
