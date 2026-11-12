@@ -18,3 +18,15 @@ Operator-listed entities and company own claims are still source claims, not ver
 
 ## Publication gate for future daily cadence
 Explicit release approval → privacy allowlist → source/freshness validation → EN/RU/AR editorial QA → commit approved export (only when changed) → deployment. Time-of-day remains undecided.
+
+
+## Research update — 2026-11-12
+
+- Canonical dataset now contains 53 provisional records: 48 enriched and 5 additions.
+- Individual profiles, human-readable index, source index and machine-readable summary added under data/bay-square.
+- Conflicts are retained explicitly. SEMA and Green Gardenia publish non-Bay-Square current contact addresses; their historical Bay Square addresses are not treated as current. Footprint has a different current Bay Square office. Boba House has conflicting locality evidence.
+- Original location provenance is preserved in previous_location_evidence. The checked field means source review date, not an on-site verification date.
+- company_confirmed means the company site claims a Bay Square location; operator_listed means venue-source only; conflicting means incompatible address/identity evidence remains. No status verifies licenses or legal existence.
+- No personal contacts, phone numbers, account details, private notes, logos or images were added.
+- Archived prototype unchanged; current richer data is not wired into the prototype. No infrastructure, deployment, DNS or scheduling changes.
+- Multilingual publication QA and current-occupancy confirmation are still required before a production launch.

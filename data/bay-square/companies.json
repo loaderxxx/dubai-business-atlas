@@ -3,8 +3,8 @@
   "scope": "Bay Square / Business Bay / Dubai",
   "release_status": "PILOT_RESEARCH_CANDIDATES_NOT_VERIFIED",
   "initial_research_date": "2026-10-12",
-  "record_count": 48,
-  "notice": "Independent third-party study, not official Bay Square management tenant register. Source entries may be stale and do not prove current occupancy; individual organization details require re-verification before production site launch.",
+  "record_count": 53,
+  "notice": "Independent research, not an official tenant registry. Source claims are dated desk research, not on-site verification, legal-entity checks or proof of current occupancy. Conflicting locations remain flagged; previous_location_evidence is historical only. Customer types are editorial segmentation inferred from advertised services. Russian descriptions are editorial summaries, not official translations.",
   "records": [
     {
       "id": "unbox-community",
@@ -16,7 +16,40 @@
       "source": "https://unboxinc.com/locations/discover-bay-square/",
       "website": "https://unboxinc.com/",
       "evidence": "company",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Оператор гибких рабочих пространств: частные офисы, коворкинг и помещения для деловых встреч.",
+      "services": [
+        "Частные офисы",
+        "Коворкинг",
+        "Виртуальные офисы",
+        "Переговорные и пространства для мероприятий"
+      ],
+      "customer_types": [
+        "Команды компаний",
+        "Предприниматели",
+        "Организаторы деловых встреч"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://unboxinc.com/locations/discover-bay-square/",
+          "title": "UNBOX Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Форматы пространств; Building 04 Level 02"
+          ]
+        }
+      ],
+      "caveats": [
+        "Доступность и тарифы не проверялись."
+      ],
+      "previous_location_evidence": {
+        "building": 4,
+        "unit": "Level 02",
+        "source": "https://unboxinc.com/locations/discover-bay-square/",
+        "evidence": "company",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "aark-developers",
@@ -28,7 +61,37 @@
       "source": "https://aarkdevelopers.com/about-us/",
       "website": "https://aarkdevelopers.com/",
       "evidence": "company",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Девелопер жилой недвижимости в ОАЭ; на сайте представлены Aark Residences, Aark Terraces, Gardenia Livings и пляжные резиденции.",
+      "services": [
+        "Разработка жилых проектов",
+        "Продажа квартир и резиденций"
+      ],
+      "customer_types": [
+        "Покупатели жилья",
+        "Инвесторы в недвижимость"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://aarkdevelopers.com/about-us/",
+          "title": "About Aark Developers",
+          "checked": "2026-11-12",
+          "supports": [
+            "Профиль, проекты, Building 13 Offices 406 & 407"
+          ]
+        }
+      ],
+      "caveats": [
+        "Статус строительства и инвестиционная доходность независимо не проверены."
+      ],
+      "previous_location_evidence": {
+        "building": 13,
+        "unit": "Offices 406 & 407",
+        "source": "https://aarkdevelopers.com/about-us/",
+        "evidence": "company",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "meirc-training-consulting",
@@ -40,7 +103,48 @@
       "source": "https://www.meirc.com/",
       "website": "https://www.meirc.com/",
       "evidence": "company",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Провайдер профессионального обучения и консалтинга: открытые и корпоративные программы, коучинг и развитие руководителей.",
+      "services": [
+        "Открытые курсы",
+        "Корпоративное обучение",
+        "Сертификационные программы",
+        "Консалтинг",
+        "Коучинг",
+        "Развитие лидерства"
+      ],
+      "customer_types": [
+        "Специалисты",
+        "Руководители",
+        "Корпоративные HR и L&D"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.meirc.com/",
+          "title": "Meirc Training & Consulting",
+          "checked": "2026-11-12",
+          "supports": [
+            "Перечень услуг и тематик обучения"
+          ]
+        },
+        {
+          "url": "https://www.meirc.com/contact-us",
+          "title": "Contact Meirc",
+          "checked": "2026-11-12",
+          "supports": [
+            "Dubai: Building 13, 1st Floor"
+          ]
+        }
+      ],
+      "caveats": [],
+      "previous_location_evidence": {
+        "building": 13,
+        "unit": "1st Floor",
+        "source": "https://www.meirc.com/",
+        "evidence": "company",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "neoterra-developments",
@@ -49,10 +153,49 @@
       "specialty": "developer",
       "building": 12,
       "unit": "Office 304",
-      "source": "https://www.neoterra.ae/",
+      "source": "https://www.neoterra.ae/projects/eira",
       "website": "https://www.neoterra.ae/",
       "evidence": "company",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Девелопер жилых проектов; официальная индексированная страница EIRA описывает студии и квартиры с одной спальней в Dubai Production City.",
+      "services": [
+        "Жилая девелоперская деятельность",
+        "Проект EIRA"
+      ],
+      "customer_types": [
+        "Покупатели жилья",
+        "Инвесторы"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.neoterra.ae/projects/eira",
+          "title": "Eira — Neoterra Developments",
+          "checked": "2026-11-12",
+          "supports": [
+            "Индексированная версия: продукт EIRA, Building 12 Office 304"
+          ]
+        },
+        {
+          "url": "https://neoterra.ae/careers",
+          "title": "Neoterra Careers",
+          "checked": "2026-11-12",
+          "supports": [
+            "Индексированная официальная страница: адрес Building 12 Office 304"
+          ]
+        }
+      ],
+      "caveats": [
+        "Прямое открытие сайта отдаёт JavaScript-заглушку; данные подтверждены индексированными официальными страницами, не полноценной live-render проверкой.",
+        "Сроки сдачи, цены и фактический ход строительства не проверены."
+      ],
+      "previous_location_evidence": {
+        "building": 12,
+        "unit": "Office 304",
+        "source": "https://www.neoterra.ae/",
+        "evidence": "company",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "doubletree-by-hilton-dubai-business-bay",
@@ -61,10 +204,45 @@
       "specialty": "hotel",
       "building": 5,
       "unit": "",
-      "source": "https://www.hilton.com/en/hotels/dxbbbdi-doubletree-dubai-business-bay/hotel-location/",
+      "source": "https://www.hilton.com/en/hotels/dxbbbdi-doubletree-dubai-business-bay/",
       "website": "https://www.hilton.com/en/hotels/dxbbbdi-doubletree-dubai-business-bay/",
       "evidence": "company",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Отель Hilton в Bay Square: номера и семейные сьюты, рестораны и лаунжи, спа и мероприятия.",
+      "services": [
+        "Проживание",
+        "Семейные сьюты",
+        "Рестораны и лаунжи",
+        "Спа",
+        "Мероприятия"
+      ],
+      "customer_types": [
+        "Туристы",
+        "Деловые путешественники",
+        "Семьи",
+        "Организаторы мероприятий"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.hilton.com/en/hotels/dxbbbdi-doubletree-dubai-business-bay/",
+          "title": "DoubleTree Dubai Business Bay",
+          "checked": "2026-11-12",
+          "supports": [
+            "Адрес Bay Square 5; номера, семейные сьюты, спа, рестораны и events"
+          ]
+        }
+      ],
+      "caveats": [
+        "Цены, свободные номера и условия доступа к услугам не проверялись."
+      ],
+      "previous_location_evidence": {
+        "building": 5,
+        "unit": "",
+        "source": "https://www.hilton.com/en/hotels/dxbbbdi-doubletree-dubai-business-bay/hotel-location/",
+        "evidence": "company",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "commercial-business-brokers-by-driven-properties",
@@ -76,7 +254,41 @@
       "source": "https://www.drivencommercial.com/en/contact-us",
       "website": "https://www.drivencommercial.com/",
       "evidence": "company",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Коммерческий брокер недвижимости группы Driven: продажа и аренда офисов, магазинов, складов и жилья для персонала.",
+      "services": [
+        "Покупка коммерческой недвижимости",
+        "Аренда коммерческой недвижимости",
+        "Продажа объектов собственников",
+        "Офисы",
+        "Торговые помещения",
+        "Склады",
+        "Размещение персонала"
+      ],
+      "customer_types": [
+        "Компании-арендаторы",
+        "Собственники коммерческих объектов",
+        "Инвесторы"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.drivencommercial.com/en/contact-us",
+          "title": "Contact Commercial Business Brokers",
+          "checked": "2026-11-12",
+          "supports": [
+            "Услуги и типы объектов; Office 205, Building 13"
+          ]
+        }
+      ],
+      "caveats": [],
+      "previous_location_evidence": {
+        "building": 13,
+        "unit": "Office 205",
+        "source": "https://www.drivencommercial.com/en/contact-us",
+        "evidence": "company",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "act-corporate-services",
@@ -85,22 +297,115 @@
       "specialty": "companysetup",
       "building": 12,
       "unit": "Office 401",
-      "source": "https://www.citysearch.ae/bay-square-building-12-dubai/outlets",
-      "website": "",
-      "evidence": "thirdparty",
-      "checked": "2026-10-12"
+      "source": "https://uaeproservices.com/",
+      "website": "https://uaeproservices.com/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Корпоративный сервис-провайдер: оформление компаний, взаимодействие с госорганами, визы, кадровый аутсорсинг и административная поддержка.",
+      "services": [
+        "Регистрация компаний",
+        "PRO-сопровождение",
+        "Визы и лицензии",
+        "HR-аутсорсинг",
+        "VAT и бухгалтерия",
+        "Корпоративная документация",
+        "Маркетинговая поддержка"
+      ],
+      "customer_types": [
+        "Компании ОАЭ",
+        "Предприниматели",
+        "Работодатели"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://uaeproservices.com/",
+          "title": "ACT Corporate Services",
+          "checked": "2026-11-12",
+          "supports": [
+            "Перечень услуг и офис 401 Building 12"
+          ]
+        }
+      ],
+      "caveats": [
+        "Указание услуг не является проверкой лицензий или гарантией выдачи виз."
+      ],
+      "previous_location_evidence": {
+        "building": 12,
+        "unit": "Office 401",
+        "source": "https://www.citysearch.ae/bay-square-building-12-dubai/outlets",
+        "evidence": "thirdparty",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "sema-brands",
       "name": "SEMA Brands",
       "sector": "business",
       "specialty": "marketing",
-      "building": 4,
-      "unit": "2nd Floor",
-      "source": "https://www.citysearch.ae/bay-square-building-4-dubai/outlets",
-      "website": "",
-      "evidence": "thirdparty",
-      "checked": "2026-10-12"
+      "building": null,
+      "unit": "",
+      "source": "https://semabrands.com/ae/en",
+      "website": "https://semabrands.com/ae/en",
+      "evidence": "mixed",
+      "checked": "2026-11-12",
+      "description_ru": "SEMA позиционируется как внешний маркетинговый отдел: стратегия, контент, поиск, реклама, цифровые продукты и аналитика.",
+      "services": [
+        "Маркетинговая стратегия",
+        "Брендинг",
+        "SEO и локальное SEO",
+        "Google Ads и paid social",
+        "Соцсети и контент",
+        "Сайты и ecommerce",
+        "Мобильные и AI-приложения",
+        "Аналитика и автоматизация маркетинга"
+      ],
+      "customer_types": [
+        "Недвижимость",
+        "Гостиницы",
+        "Рестораны и F&B",
+        "Здравоохранение",
+        "Ecommerce",
+        "Туризм"
+      ],
+      "location_status": "conflicting",
+      "sources": [
+        {
+          "url": "https://semabrands.com/ae/en",
+          "title": "SEMA digital marketing",
+          "checked": "2026-11-12",
+          "supports": [
+            "Сервисы, позиционирование и отрасли"
+          ]
+        },
+        {
+          "url": "https://semabrands.com/ae/en/contact",
+          "title": "Contact SEMA Dubai",
+          "checked": "2026-11-12",
+          "supports": [
+            "Текущий адрес Office 714 Tamani Arts Building"
+          ]
+        },
+        {
+          "url": "https://www.semabrands.com/contact/",
+          "title": "Legacy Contact SEMA (indexed)",
+          "checked": "2026-11-12",
+          "supports": [
+            "Индексированный старый адрес Building 4, 2nd floor Bay Square"
+          ]
+        }
+      ],
+      "caveats": [
+        "Текущая официальная контактная страница указывает Tamani Arts Building, офис 714, а не Bay Square. Старый адрес не удалять как историю, не считать действующим.",
+        "Старая /contact/ при открытии недоступна, но её индексированная версия содержит Bay Square."
+      ],
+      "previous_location_evidence": {
+        "building": 4,
+        "unit": "2nd Floor",
+        "source": "https://www.citysearch.ae/bay-square-building-4-dubai/outlets",
+        "evidence": "thirdparty",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "ezone-corporate-services-provider",
@@ -108,11 +413,56 @@
       "sector": "business",
       "specialty": "companysetup",
       "building": 11,
-      "unit": "2nd Floor",
-      "source": "https://www.hidubai.com/businesses/ezone-business-setup-b2b-services-business-setup-and-pros-business-bay-dubai",
-      "website": "",
-      "evidence": "thirdparty",
-      "checked": "2026-10-12"
+      "unit": "Office 205",
+      "source": "https://e.zone/",
+      "website": "https://e.zone/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "EZONE сопровождает открытие и обслуживание бизнеса в ОАЭ: mainland, free zone и offshore структуры, комплаенс и визовые услуги.",
+      "services": [
+        "Регистрация компаний",
+        "PRO",
+        "Банковское сопровождение",
+        "Бухгалтерия",
+        "VAT и corporate tax регистрация",
+        "AML-комплаенс",
+        "HR-аутсорсинг",
+        "Визовое сопровождение"
+      ],
+      "customer_types": [
+        "Предприниматели",
+        "Компании",
+        "Фрилансеры"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://e.zone/",
+          "title": "EZONE Business Setup",
+          "checked": "2026-11-12",
+          "supports": [
+            "Каталог услуг и юрисдикций"
+          ]
+        },
+        {
+          "url": "https://e.zone/contact-us-for-a-free-consultation/",
+          "title": "EZONE Contact",
+          "checked": "2026-11-12",
+          "supports": [
+            "Office 205 Building 11"
+          ]
+        }
+      ],
+      "caveats": [
+        "Банковские счета и визы зависят от решений банков/госорганов; не подразумевается гарантированный результат."
+      ],
+      "previous_location_evidence": {
+        "building": 11,
+        "unit": "2nd Floor",
+        "source": "https://www.hidubai.com/businesses/ezone-business-setup-b2b-services-business-setup-and-pros-business-bay-dubai",
+        "evidence": "thirdparty",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "lbx-logistics",
@@ -120,11 +470,49 @@
       "sector": "business",
       "specialty": "logistics",
       "building": 7,
-      "unit": "BB07",
-      "source": "https://www.citysearch.ae/bay-square-building-7-dubai/outlets",
-      "website": "",
-      "evidence": "thirdparty",
-      "checked": "2026-10-12"
+      "unit": "",
+      "source": "https://lbxlogistics.com/contact/",
+      "website": "https://lbxlogistics.com/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Логистический провайдер с международными перевозками, таможенным сопровождением и комплексными цепочками поставок.",
+      "services": [
+        "Авиа-, морские и автоперевозки",
+        "Железнодорожные и мультимодальные перевозки",
+        "Проектные грузы",
+        "Таможенное оформление",
+        "Складская и контрактная логистика",
+        "Холодовая цепь"
+      ],
+      "customer_types": [
+        "Импортёры и экспортёры",
+        "Ритейл",
+        "Здравоохранение",
+        "Строительство",
+        "Пищевая отрасль",
+        "Технологические компании"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://lbxlogistics.com/contact/",
+          "title": "Contact LBX Logistics",
+          "checked": "2026-11-12",
+          "supports": [
+            "Каталог перевозок/отраслей и адрес Bay Square BB07, 7 Al Asayel St"
+          ]
+        }
+      ],
+      "caveats": [
+        "BB07 используется как обозначение здания; отдельный номер офиса не опубликован. Не считать BB07 номером помещения."
+      ],
+      "previous_location_evidence": {
+        "building": 7,
+        "unit": "BB07",
+        "source": "https://www.citysearch.ae/bay-square-building-7-dubai/outlets",
+        "evidence": "thirdparty",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "csp-group-middle-east",
@@ -133,34 +521,181 @@
       "specialty": "consulting",
       "building": 8,
       "unit": "P01–02",
-      "source": "https://www.citysearch.ae/bay-square-building-8-dubai/outlets",
-      "website": "",
-      "evidence": "thirdparty",
-      "checked": "2026-10-12"
+      "source": "https://cspgroupme.com/",
+      "website": "https://cspgroupme.com/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Группа корпоративного, фидуциарного и миграционного сопровождения бизнеса в странах GCC.",
+      "services": [
+        "Выход на рынки GCC",
+        "Регистрация компаний",
+        "Корпоративное структурирование",
+        "Бухгалтерия и payroll",
+        "HR-аутсорсинг",
+        "Employer of Record",
+        "Релокация",
+        "PRO и визовые услуги"
+      ],
+      "customer_types": [
+        "Компании, выходящие на GCC",
+        "Работодатели",
+        "Международные группы"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://cspgroupme.com/",
+          "title": "CSP Group",
+          "checked": "2026-11-12",
+          "supports": [
+            "Услуги и региональный охват"
+          ]
+        },
+        {
+          "url": "https://cspgroupme.com/contact-us/",
+          "title": "CSP Contact",
+          "checked": "2026-11-12",
+          "supports": [
+            "Клиентский контактный адрес P01-02 Building 8"
+          ]
+        },
+        {
+          "url": "https://cspgroupme.com/privacy-policy/",
+          "title": "CSP Privacy",
+          "checked": "2026-11-12",
+          "supports": [
+            "Юридические адреса иных структур: Office 504 и Office 307 Building 8"
+          ]
+        }
+      ],
+      "caveats": [
+        "Контактная страница подтверждает P01-02; privacy policy содержит иные номера для юридических структур группы, их не следует смешивать с клиентским офисом."
+      ],
+      "previous_location_evidence": {
+        "building": 8,
+        "unit": "P01–02",
+        "source": "https://www.citysearch.ae/bay-square-building-8-dubai/outlets",
+        "evidence": "thirdparty",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "green-gardenia-landscaping-pools",
       "name": "Green Gardenia Landscaping & Pools",
       "sector": "business",
       "specialty": "landscaping",
-      "building": 8,
-      "unit": "P03",
-      "source": "https://www.citysearch.ae/bay-square-building-8-dubai/outlets",
-      "website": "",
-      "evidence": "thirdparty",
-      "checked": "2026-10-12"
+      "building": null,
+      "unit": "",
+      "source": "https://greengardenia.ae/",
+      "website": "https://greengardenia.ae/",
+      "evidence": "mixed",
+      "checked": "2026-11-12",
+      "description_ru": "Ландшафтная компания: проектирование, строительство и обслуживание наружных пространств, озеленение и зоны бассейнов.",
+      "services": [
+        "Ландшафтное проектирование",
+        "Строительство ландшафта",
+        "Обслуживание",
+        "Hardscape и softscape",
+        "Наружное освещение",
+        "Полив",
+        "Ландшафт бассейнов"
+      ],
+      "customer_types": [
+        "Владельцы недвижимости",
+        "Девелоперы",
+        "Коммерческие объекты"
+      ],
+      "location_status": "conflicting",
+      "sources": [
+        {
+          "url": "https://greengardenia.ae/",
+          "title": "Green Gardenia Landscaping & Pools",
+          "checked": "2026-11-12",
+          "supports": [
+            "Услуги и портфолио"
+          ]
+        },
+        {
+          "url": "https://greengardenia.ae/contact/",
+          "title": "Green Gardenia Contact",
+          "checked": "2026-11-12",
+          "supports": [
+            "Текущий адрес 1910 Opal Tower Business Bay"
+          ]
+        }
+      ],
+      "caveats": [
+        "Текущий официальный адрес: 1910 Opal Tower, Business Bay. Старый Bay Square Building 8 P03 не подтверждён как действующий.",
+        "Числа проектов и ISO-названия на странице выглядят некорректно/динамически; не использовать как проверенные достижения."
+      ],
+      "previous_location_evidence": {
+        "building": 8,
+        "unit": "P03",
+        "source": "https://www.citysearch.ae/bay-square-building-8-dubai/outlets",
+        "evidence": "thirdparty",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "foot-print-real-estate",
       "name": "Foot Print Real Estate",
       "sector": "realestate",
       "specialty": "brokerage",
-      "building": 7,
-      "unit": "Office 610",
-      "source": "https://www.citysearch.ae/bay-square-building-7-dubai/outlets",
-      "website": "",
-      "evidence": "thirdparty",
-      "checked": "2026-10-12"
+      "building": 8,
+      "unit": "Floor 8",
+      "source": "https://fpproperty.com/",
+      "website": "https://fpproperty.com/",
+      "evidence": "mixed",
+      "checked": "2026-11-12",
+      "description_ru": "FP Property / Footprint Real Estate: брокерские и сопутствующие услуги по жилой и коммерческой недвижимости в ОАЭ.",
+      "services": [
+        "Покупка и аренда",
+        "Off-plan недвижимость",
+        "Управление объектами",
+        "Инвестиционный консалтинг",
+        "Ипотечное сопровождение",
+        "Оценка",
+        "Приёмка недвижимости"
+      ],
+      "customer_types": [
+        "Покупатели",
+        "Арендаторы",
+        "Собственники",
+        "Инвесторы"
+      ],
+      "location_status": "conflicting",
+      "sources": [
+        {
+          "url": "https://fpproperty.com/",
+          "title": "FP Property",
+          "checked": "2026-11-12",
+          "supports": [
+            "Брокерский профиль и направления"
+          ]
+        },
+        {
+          "url": "https://fpproperty.com/contact-us",
+          "title": "FP Property Contact",
+          "checked": "2026-11-12",
+          "supports": [
+            "Текущий головной офис Floor 8 Building 08 Bay Square; бренд Footprint Real Estate и услуги"
+          ]
+        }
+      ],
+      "caveats": [
+        "Исходная запись Building 7 Office 610 расходится с официальным текущим адресом Building 8 Floor 8. Сохранить историю, не показывать 610 как подтверждённый офис."
+      ],
+      "previous_location_evidence": {
+        "building": 7,
+        "unit": "Office 610",
+        "source": "https://www.citysearch.ae/bay-square-building-7-dubai/outlets",
+        "evidence": "thirdparty",
+        "checked": "2026-10-12"
+      },
+      "aliases": [
+        "FP Property",
+        "Footprint Real Estate"
+      ]
     },
     {
       "id": "aqsa-developers",
@@ -169,10 +704,52 @@
       "specialty": "developer",
       "building": 10,
       "unit": "Office 307",
-      "source": "https://www.citysearch.ae/bay-square-building-10-dubai/outlets",
-      "website": "",
-      "evidence": "thirdparty",
-      "checked": "2026-10-12"
+      "source": "https://www.citysearch.ae/aqsa-developers-dubai",
+      "website": "https://aqasa.ae/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "AQASA Developers разрабатывает жилую недвижимость; сайт описывает квартиры в районе Discovery Gardens / Al Furjan.",
+      "services": [
+        "Жилой девелопмент",
+        "Квартиры в Al Furjan"
+      ],
+      "customer_types": [
+        "Покупатели жилья",
+        "Инвесторы"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.citysearch.ae/aqsa-developers-dubai",
+          "title": "Citysearch Aqsa Developers",
+          "checked": "2026-11-12",
+          "supports": [
+            "Явная ссылка на aqasa.ae и тот же адрес 307 Building 10; связь написаний Aqsa/Aqasa"
+          ]
+        },
+        {
+          "url": "https://aqasa.ae/",
+          "title": "AQASA Developers",
+          "checked": "2026-11-12",
+          "supports": [
+            "Официальное написание AQASA, профиль и адрес 307 Building 10"
+          ]
+        }
+      ],
+      "caveats": [
+        "В исходной записи Aqsa; официальный бренд AQASA. Совпадение подтверждается ссылкой из исходного каталога и адресом, а не только похожим названием.",
+        "Маркетинговые обещания доходности не проверялись и не перенесены."
+      ],
+      "previous_location_evidence": {
+        "building": 10,
+        "unit": "Office 307",
+        "source": "https://www.citysearch.ae/bay-square-building-10-dubai/outlets",
+        "evidence": "thirdparty",
+        "checked": "2026-10-12"
+      },
+      "aliases": [
+        "AQASA Developers"
+      ]
     },
     {
       "id": "starbucks",
@@ -181,10 +758,49 @@
       "specialty": "coffee",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "source": "https://www.baysquare.ae/en/outlets/starbucks",
+      "website": "https://locations.starbucks.ae/dubai/bay-square",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Кофейня Starbucks с отдельной официальной страницей точки Bay Square. Предлагает кофе, напитки на основе эспрессо и еду; для этой точки указан самовывоз Click & Collect.",
+      "services": [
+        "кофе и эспрессо-напитки",
+        "еда и выпечка",
+        "Click & Collect"
+      ],
+      "customer_types": [
+        "посетители кофеен"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/starbucks",
+          "title": "Bay Square: starbucks",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        },
+        {
+          "url": "https://locations.starbucks.ae/dubai/bay-square",
+          "title": "Starbucks Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Официальная страница конкретной точки; кофе, еда и Click & Collect."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "Номер здания и помещения в прочитанной странице не указан; рекламное меню не гарантирует текущий ассортимент."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "caribou-cafe",
@@ -193,34 +809,168 @@
       "specialty": "coffee",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
+      "source": "https://www.baysquare.ae/en/outlets/caribou",
+      "website": "https://www.cariboucoffee.com/",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Кофейня Caribou в каталоге Bay Square. Оператор описывает кофейные и чайные напитки, выпечку, кофе в капсулах и сопутствующие товары.",
+      "services": [
+        "кофейные напитки",
+        "чай",
+        "выпечка",
+        "кофе в капсулах"
+      ],
+      "customer_types": [
+        "посетители кофеен"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/caribou",
+          "title": "Bay Square: caribou-cafe",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        },
+        {
+          "url": "https://www.cariboucoffee.com/around-the-world/",
+          "title": "Caribou Coffee: Around The World",
+          "checked": "2026-11-12",
+          "supports": [
+            "Официальный домен бренда; поиск показывал Bay Square, но открытая версия не отобразила список точек."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "Международный сайт не подтверждает ассортимент в Дубае. Bay Square подтверждён только карточкой оператора; здание не установлено."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "costa",
       "name": "Costa",
       "sector": "food",
       "specialty": "coffee",
-      "building": null,
-      "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "building": 2,
+      "unit": "Ground Floor",
+      "source": "https://www.baysquare.ae/en/outlets/costa",
+      "website": "https://www.costacoffee.ae/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Кофейня Costa в здании 2 Bay Square, на первом наземном уровне (Ground Floor), согласно странице оператора бренда ELR. Основное предложение бренда — кофейные напитки; региональный сайт также описывает кофе для домашнего приготовления.",
+      "services": [
+        "кофейные напитки",
+        "кофе для дома — предложение бренда"
+      ],
+      "customer_types": [
+        "посетители кофеен"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/costa",
+          "title": "Bay Square: costa",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        },
+        {
+          "url": "https://www.mmielr.com/locations/stores-details/200171",
+          "title": "MMI / Emirates Leisure Retail: Costa Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Costa: Ground Floor, Building 2, Bay Square, Business Bay."
+          ]
+        },
+        {
+          "url": "https://www.costacoffee.ae/",
+          "title": "Costa Coffee UAE",
+          "checked": "2026-11-12",
+          "supports": [
+            "Региональное предложение кофе и продуктов Costa at Home."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "Наличие товаров для дома именно в Bay Square не установлено. Store-locator URL выдал 404; адрес подтверждён отдельной страницей ELR."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "the-circle-cafe",
       "name": "The Circle Cafe",
       "sector": "food",
       "specialty": "cafe",
-      "building": null,
+      "building": 7,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "source": "https://www.baysquare.ae/en/outlets/the-circle-caf",
+      "website": "https://www.circle-cafe.com/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Circle Cafe предлагает завтраки, обеды, ужины, десерты и напитки. В собственном списке заведений сеть указывает точку Bay Square в здании 7.",
+      "services": [
+        "завтраки",
+        "обеды и ужины",
+        "десерты",
+        "напитки"
+      ],
+      "customer_types": [
+        "посетители кафе"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/the-circle-caf",
+          "title": "Bay Square: the-circle-cafe",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        },
+        {
+          "url": "https://www.circle-cafe.com/locations/",
+          "title": "Circle Cafe: Locations",
+          "checked": "2026-11-12",
+          "supports": [
+            "Bay Square Building 7."
+          ]
+        },
+        {
+          "url": "https://www.circle-cafe.com/",
+          "title": "Circle Cafe: Our Food",
+          "checked": "2026-11-12",
+          "supports": [
+            "Категории меню: Breakfast Items, Lunch and Dinner, Desserts, Beverages."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "Часы и телефон расходятся между сайтом сети и каталогом Bay Square; не публиковать расписание как проверенное. Меню описано на уровне бренда."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "tim-hortons",
@@ -229,10 +979,50 @@
       "specialty": "coffee",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "source": "https://www.baysquare.ae/en/outlets/tim-hortons",
+      "website": "https://timhortonsgcc.com/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Кофейня Tim Hortons: кофе, пончики и другие блюда быстрого питания по карточке оператора. Собственный региональный сайт подтверждает точку Bay Square и тот же телефон.",
+      "services": [
+        "кофе",
+        "пончики",
+        "быстрое питание"
+      ],
+      "customer_types": [
+        "посетители кофеен",
+        "покупатели быстрого питания"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/tim-hortons",
+          "title": "Bay Square: tim-hortons",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        },
+        {
+          "url": "https://timhortonsgcc.com/location/united-arab-emirates/",
+          "title": "Tim Hortons: United Arab Emirates locations",
+          "checked": "2026-11-12",
+          "supports": [
+            "Bay Square, Al Asayel Street; телефон совпадает с карточкой оператора."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "Номер здания и помещения не указан в официальном списке; актуальное меню филиала не проверено."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "kfc",
@@ -241,10 +1031,40 @@
       "specialty": "fastfood",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
+      "source": "https://www.baysquare.ae/en/outlets/kfc",
       "website": "",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Ресторан KFC включён в каталог Bay Square; основной продукт, прямо указанный оператором, — жареная курица в хрустящей панировке.",
+      "services": [
+        "жареная курица",
+        "быстрое питание"
+      ],
+      "customer_types": [
+        "покупатели быстрого питания"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/kfc",
+          "title": "Bay Square: kfc",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "Собственная страница этой точки, здание и меню филиала не подтверждены."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "freshii",
@@ -253,10 +1073,42 @@
       "specialty": "dining",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
+      "source": "https://www.baysquare.ae/en/outlets/freshii",
       "website": "",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Freshii представлен оператором Bay Square как ресторан быстрого обслуживания с акцентом на свежие блюда, настройку заказа и вегетарианские варианты.",
+      "services": [
+        "быстрые блюда",
+        "настройка состава заказа",
+        "вегетарианские варианты"
+      ],
+      "customer_types": [
+        "посетители ресторанов быстрого обслуживания",
+        "покупатели вегетарианских блюд"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/freshii",
+          "title": "Bay Square: freshii",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "Заявления о полезности — позиционирование бренда, не медицинская оценка. Freshiidubai.com вернул 502; здание и локальное меню из первичного источника не подтверждены."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "subway",
@@ -265,22 +1117,96 @@
       "specialty": "fastfood",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
+      "source": "https://www.baysquare.ae/en/outlets/subway",
       "website": "",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Subway включён в каталог Bay Square. Оператор описывает сэндвичи в продолговатой булочке, роллы, салаты и напитки.",
+      "services": [
+        "сэндвичи",
+        "роллы",
+        "салаты",
+        "напитки"
+      ],
+      "customer_types": [
+        "покупатели быстрого питания"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/subway",
+          "title": "Bay Square: subway",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "Описание относится к формату бренда; номер здания и доступность каждой позиции в точке не установлены."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "wingstop",
       "name": "Wingstop",
       "sector": "food",
       "specialty": "fastfood",
-      "building": null,
+      "building": 11,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "source": "https://www.baysquare.ae/en/outlets/wingstop",
+      "website": "https://wingstop.ae/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Wingstop специализируется на куриных крылышках, картофеле фри и гарнирах. Собственный сайт подтверждает точку Bay Square в здании 11 и обслуживание в зале, навынос и доставку.",
+      "services": [
+        "куриные крылышки",
+        "картофель фри и гарниры",
+        "обслуживание в зале",
+        "навынос",
+        "доставка"
+      ],
+      "customer_types": [
+        "посетители ресторана",
+        "заказчики еды навынос и доставки"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/wingstop",
+          "title": "Bay Square: wingstop",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        },
+        {
+          "url": "https://wingstop.ae/store-locations/",
+          "title": "Wingstop UAE: Locations",
+          "checked": "2026-11-12",
+          "supports": [
+            "Wingstop Baysquare, Building 11, Marasi Dr; Dine In, Takeaway, Delivery."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "Часы работы в выходные на сайте компании отличаются от общего расписания оператора Bay Square."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "taqado-mexican-kitchen",
@@ -289,10 +1215,41 @@
       "specialty": "dining",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
+      "source": "https://www.baysquare.ae/en/outlets/taqado-mexican-kitchen",
       "website": "",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Мексиканское заведение Taqado Mexican Kitchen из каталога Bay Square. В описании оператора упомянуты маринованное мясо и гуакамоле.",
+      "services": [
+        "мексиканская кухня",
+        "блюда с мясом",
+        "гуакамоле"
+      ],
+      "customer_types": [
+        "посетители ресторанов мексиканской кухни"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/taqado-mexican-kitchen",
+          "title": "Bay Square: taqado-mexican-kitchen",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "Официальный домен taqado.com не открылся. Конкретные блюда, адрес помещения и локальные способы заказа не подтверждены."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "creation-by-al-hallab",
@@ -301,10 +1258,49 @@
       "specialty": "sweets",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
+      "source": "https://www.baysquare.ae/en/outlets/creation-by-al-hallab",
+      "website": "https://creationsalhallab.com/",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Бутик шоколада и десертов Creations by Al Hallab, представленный в каталоге Bay Square. Специализация — шоколадные изделия и вариации традиционных сладостей.",
+      "services": [
+        "шоколад",
+        "десерты",
+        "сладости"
+      ],
+      "customer_types": [
+        "покупатели сладостей"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/creation-by-al-hallab",
+          "title": "Bay Square: creation-by-al-hallab",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        },
+        {
+          "url": "https://creationsalhallab.com/password",
+          "title": "Creations by Al Hallab: coming back soon",
+          "checked": "2026-11-12",
+          "supports": [
+            "На дату проверки официальный магазин показывает страницу обновления, а не доступный каталог."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "Сайт временно закрыт на обновление. Это не доказывает закрытие физической точки; актуальный ассортимент и интернет-заказы не подтверждены."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "paratha-king",
@@ -313,10 +1309,47 @@
       "specialty": "dining",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
+      "source": "https://www.baysquare.ae/en/outlets/paratha-king",
       "website": "",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Paratha King представлен оператором Bay Square как ресторан вегетарианских лепёшек паратха с начинками.",
+      "services": [
+        "вегетарианские паратха с начинками"
+      ],
+      "customer_types": [
+        "покупатели вегетарианских блюд"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/paratha-king",
+          "title": "Bay Square: paratha-king",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        },
+        {
+          "url": "https://parathakingcom.limetray.com/locate-us",
+          "title": "Paratha King: Locate Us",
+          "checked": "2026-11-12",
+          "supports": [
+            "Проверен список адресов: Bay Square в прочитанной версии отсутствует."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "Список на платформе бренда не содержит Bay Square. Это не доказывает закрытие: местонахождение остаётся operator_listed; номер здания не подтверждён первичным источником."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "boba-house-coffee-shop-llc",
@@ -325,10 +1358,47 @@
       "specialty": "coffee",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "source": "https://www.baysquare.ae/en/outlets/boba-house-coffee-shop-llc",
+      "website": "https://bobahouse.ae/",
+      "evidence": "mixed",
+      "checked": "2026-11-12",
+      "description_ru": "Кафе Boba House Coffee Shop LLC перечислено оператором Bay Square как точка молочного чая с боба. Связанный по совпадающему телефону сайт bobahouse.ae указывает другой адрес в Business Bay, поэтому точная привязка требует проверки.",
+      "services": [
+        "молочный чай с боба"
+      ],
+      "customer_types": [
+        "покупатели чайных напитков"
+      ],
+      "location_status": "conflicting",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/boba-house-coffee-shop-llc",
+          "title": "Bay Square: boba-house-coffee-shop-llc",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        },
+        {
+          "url": "https://bobahouse.ae/contact/",
+          "title": "Boba House: Contact",
+          "checked": "2026-11-12",
+          "supports": [
+            "Телефон совпадает с каталогом Bay Square, но адрес указан The Regal, Business Bay."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "The Regal и Bay Square нельзя автоматически считать одной точкой. Сайт содержит шаблонные элементы; не переносить его B2B-каталог, франшизу или обещания доставки в карточку филиала без отдельной проверки."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "baltazar",
@@ -337,10 +1407,40 @@
       "specialty": "dining",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
+      "source": "https://www.baysquare.ae/en/outlets/baltazar",
       "website": "",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "В отдельной карточке Bay Square Baltazar описан как ресторан бургеров и стейков.",
+      "services": [
+        "бургеры",
+        "стейки"
+      ],
+      "customer_types": [
+        "посетители ресторанов"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/baltazar",
+          "title": "Bay Square: baltazar",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "Отдельная карточка оператора доступна, но Baltazar не найден в текущем общем списке directory/sitemap; возможна устаревшая карточка. Действующий статус, собственный сайт и здание требуют проверки."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "wok-of-fame",
@@ -349,10 +1449,44 @@
       "specialty": "dining",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
+      "source": "https://www.baysquare.ae/en/outlets/wok-of-fame",
       "website": "",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Wok of Fame предлагает азиатскую кухню. Карточка Bay Square описывает блюда по меню, бизнес-ланчи и буфет с закусками, основными блюдами и десертами.",
+      "services": [
+        "азиатская кухня",
+        "блюда по меню",
+        "бизнес-ланчи",
+        "буфет"
+      ],
+      "customer_types": [
+        "посетители ресторанов",
+        "гости бизнес-ланчей",
+        "семьи"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/wok-of-fame",
+          "title": "Bay Square: wok-of-fame",
+          "checked": "2026-11-12",
+          "supports": [
+            "Карточка оператора Bay Square; присутствие в каталоге и краткое описание предложения."
+          ]
+        }
+      ],
+      "caveats": [
+        "Веб-источники не заменяют проверку фактической работы точки; цены и наличие отдельных позиций не проверены.",
+        "Независимый официальный сайт не подтверждён; найденные исторические домены и одноимённые рестораны других стран не использованы. Здание и актуальные цены не установлены."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "choithrams",
@@ -361,10 +1495,47 @@
       "specialty": "grocery",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "source": "https://www.baysquare.ae/en/outlets/choithrams",
+      "website": "https://choithramsgcc.com/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Продуктовая розничная сеть ОАЭ. Магазин Bay Square отдельно указан в официальном локаторе сети; оператор комплекса относит точку к супермаркетам.",
+      "services": [
+        "Продуктовый супермаркет"
+      ],
+      "customer_types": [
+        "Частные покупатели",
+        "Жители и сотрудники района"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/choithrams",
+          "title": "Choithram Supermarket | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        },
+        {
+          "url": "https://choithramsgcc.com/en/storelocator",
+          "title": "Choithrams — Our Stores",
+          "checked": "2026-11-12",
+          "supports": [
+            "Официальный список содержит Choithrams — Bay Square, Dubai."
+          ]
+        }
+      ],
+      "caveats": [
+        "Точные здание и помещение не подтверждены доступным первичным источником."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "all-day-mini-mart",
@@ -373,10 +1544,41 @@
       "specialty": "grocery",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
+      "source": "https://www.baysquare.ae/en/outlets/all-day-mini-mart",
+      "website": "https://www.allday.ae/",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Магазин повседневных покупок сети Allday. Каталог Bay Square описывает формат небольшой продуктовой торговой точки с широким ассортиментом.",
+      "services": [
+        "Продукты питания",
+        "Повседневные покупки"
+      ],
+      "customer_types": [
+        "Частные покупатели",
+        "Сотрудники офисов"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/all-day-mini-mart",
+          "title": "All Day Mini Mart | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        }
+      ],
+      "caveats": [
+        "Сайт бренда и индексируемая карточка Bay Square найдены, но текущая загрузка сайта завершилась ошибкой; адрес не перенесён из сторонних каталогов.",
+        "Точные здание и помещение не подтверждены доступным первичным источником."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "life-mart",
@@ -385,10 +1587,40 @@
       "specialty": "grocery",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
+      "source": "https://www.baysquare.ae/en/outlets/life-mart",
       "website": "",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Продуктовый магазин Lifemart. Карточка оператора описывает подбор продуктов, сотрудничество с местными производителями и ориентацию на естественный состав; заголовок карточки также упоминает готовые блюда.",
+      "services": [
+        "Розничная продажа продуктов",
+        "Готовые блюда"
+      ],
+      "customer_types": [
+        "Частные покупатели"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/life-mart",
+          "title": "Lifemart - Natural Ready Meals | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        }
+      ],
+      "caveats": [
+        "Самостоятельный официальный сайт именно этой точки не установлен; заявления о составе продуктов не проверены независимо.",
+        "Точные здание и помещение не подтверждены доступным первичным источником."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "just-mark",
@@ -397,22 +1629,98 @@
       "specialty": "generalretail",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
+      "source": "https://www.baysquare.ae/en/outlets/just-mark",
       "website": "",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Магазин уценённых и остаточных товаров: в ассортименте, по карточке оператора, снятые с производства позиции, продукция с отклонениями и избыточные заводские партии.",
+      "services": [
+        "Продажа остаточных товарных партий",
+        "Розничные товары по сниженным ценам"
+      ],
+      "customer_types": [
+        "Частные покупатели",
+        "Бизнес-покупатели"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/just-mark",
+          "title": "Just Mark - Deals on Quality Merchandise | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        }
+      ],
+      "caveats": [
+        "Текущий ассортимент и самостоятельный официальный сайт не установлены.",
+        "Точные здание и помещение не подтверждены доступным первичным источником."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "kachins-signature-textile-tailoring",
       "name": "Kachins Signature Textile & Tailoring",
       "sector": "retail",
       "specialty": "tailoring",
-      "building": null,
-      "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "building": 6,
+      "unit": "G10",
+      "source": "https://www.baysquare.ae/en/outlets/kachins-signature-textile-tailoring",
+      "website": "https://www.kachinscouture.com/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Kachins Signature объединяет индивидуальный пошив, готовую мужскую одежду и аксессуары. Локатор бренда подтверждает магазин в здании 6 Bay Square.",
+      "services": [
+        "Индивидуальный пошив одежды",
+        "Мужская готовая одежда",
+        "Ткани",
+        "Аксессуары"
+      ],
+      "customer_types": [
+        "Мужчины — частные покупатели"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/kachins-signature-textile-tailoring",
+          "title": "Kachins Signature Textile & Tailoring | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        },
+        {
+          "url": "https://www.kachinscouture.com/pages/our-stores",
+          "title": "Kachins — Our Stores",
+          "checked": "2026-11-12",
+          "supports": [
+            "Kachins Signature: Shop G10, Building 6, Bay Square; точка совпадает с телефоном оператора."
+          ]
+        },
+        {
+          "url": "https://www.baysquare.ae/en/outlets/kachins-signature-textile-tailoring",
+          "title": "Kachins Signature | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Пошив, ткани и мужские ready-to-wear коллекции."
+          ]
+        }
+      ],
+      "caveats": [],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "life-pharmacy",
@@ -421,10 +1729,54 @@
       "specialty": "pharmacy",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
+      "source": "https://www.baysquare.ae/en/outlets/life-pharmacy",
+      "website": "https://www.lifepharmacy.com/",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Аптечная сеть с лекарствами, витаминами, средствами ухода и товарами для домашнего здоровья. Точка Bay Square присутствует в каталоге комплекса; онлайн-ассортимент относится к сети в целом.",
+      "services": [
+        "Аптечная розница",
+        "Витамины и добавки",
+        "Уход за кожей и личная гигиена",
+        "Товары для матери и ребёнка",
+        "Домашние медицинские товары",
+        "Онлайн-заказы сети"
+      ],
+      "customer_types": [
+        "Частные покупатели",
+        "Семьи"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/life-pharmacy",
+          "title": "Life Pharmacy - Retail Pharmacy Shop | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        },
+        {
+          "url": "https://www.lifepharmacy.com/about/",
+          "title": "LIFE Pharmacy — About",
+          "checked": "2026-11-12",
+          "supports": [
+            "Категории товаров и корпоративный офис; не доказывает адрес розничного филиала."
+          ]
+        }
+      ],
+      "caveats": [
+        "Building 12, 1st Floor на сайте обозначен как Corporate Office; этот адрес намеренно не присвоен аптеке.",
+        "Наличие конкретного товара и услуг в филиале не проверено.",
+        "Точные здание и помещение не подтверждены доступным первичным источником."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "bin-sina-pharmacy",
@@ -433,70 +1785,322 @@
       "specialty": "pharmacy",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
+      "source": "https://www.baysquare.ae/en/outlets/binsina-pharmacy",
+      "website": "https://www.binsina.ae/",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Аптека сети BinSina. Оператор Bay Square указывает профиль здоровья, wellness и питания, включая консультации фармацевтов.",
+      "services": [
+        "Аптечная розница",
+        "Консультации фармацевтов",
+        "Товары здоровья и питания"
+      ],
+      "customer_types": [
+        "Частные покупатели"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/binsina-pharmacy",
+          "title": "Bin Sina Pharmacy | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        }
+      ],
+      "caveats": [
+        "Официальный локатор найден поиском, но прямое открытие заблокировано; здание из поискового сниппета не считается проверенным.",
+        "Точные здание и помещение не подтверждены доступным первичным источником."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "the-polar-bear-general-dental-clinic",
       "name": "The Polar Bear General Dental Clinic",
       "sector": "health",
       "specialty": "dentist",
-      "building": null,
-      "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "building": 10,
+      "unit": "P01, P02",
+      "source": "https://www.baysquare.ae/en/outlets/the-polar-bear",
+      "website": "https://pbdc.ae/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Стоматологическая клиника Polar Bear в Bay Square, связанная с сетью «Белая Медведица». Оператор перечисляет общую и детскую стоматологию, ортодонтию, эндодонтию и протезирование; сайт клиники подтверждает помещения P01/P02 здания 10.",
+      "services": [
+        "Общая стоматология",
+        "Детская стоматология",
+        "Ортодонтия",
+        "Эндодонтия",
+        "Протезирование",
+        "Цифровая стоматологическая диагностика"
+      ],
+      "customer_types": [
+        "Взрослые пациенты",
+        "Семьи с детьми"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/the-polar-bear",
+          "title": "The Polar Bear - General Dental Clinic | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        },
+        {
+          "url": "https://pbdc.ae/contacts/",
+          "title": "Polar Bear — Contact us",
+          "checked": "2026-11-12",
+          "supports": [
+            "Адрес P01, P02, BB10, Bay Square, Business Bay; часы филиала."
+          ]
+        }
+      ],
+      "caveats": [
+        "Доступность конкретных процедур и врача уточняется в клинике; лицензии независимо не аудировались."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "ufc-gym",
       "name": "UFC Gym",
       "sector": "health",
       "specialty": "fitness",
-      "building": null,
-      "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "building": 1,
+      "unit": "P Floor",
+      "source": "https://www.baysquare.ae/en/outlets/ufc-gym",
+      "website": "https://ufcgym.me/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Фитнес-клуб UFC GYM Business Bay: тренажёрные и функциональные тренировки, единоборства и программы для детей. Страница филиала описывает зоны MMA, бокса, бразильского джиу-джитсу, силовых тренировок и восстановления.",
+      "services": [
+        "MMA",
+        "Бокс",
+        "Бразильское джиу-джитсу",
+        "Силовые и функциональные тренировки",
+        "Детские программы единоборств",
+        "Сауна и восстановление"
+      ],
+      "customer_types": [
+        "Новички",
+        "Спортсмены",
+        "Сотрудники офисов",
+        "Семьи"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/ufc-gym",
+          "title": "UFC Gym at Business Bay | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        },
+        {
+          "url": "https://ufcgym.me/en/locations/business-bay",
+          "title": "UFC GYM Business Bay",
+          "checked": "2026-11-12",
+          "supports": [
+            "P Floor, Building 1, Bay Square; услуги и инфраструктура именно филиала."
+          ]
+        }
+      ],
+      "caveats": [
+        "Часы на сайте клуба отличаются от operator directory; при планировании посещения ориентироваться на актуальную страницу клуба."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "first-path-montessori-early-childhood-center",
       "name": "First Path Montessori Early Childhood Center",
       "sector": "education",
       "specialty": "montessori",
-      "building": null,
+      "building": 7,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "source": "https://www.baysquare.ae/en/outlets/first-path-montessori-early-childhood-center",
+      "website": "https://firstpathedu.com/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Центр дошкольного образования и ухода, сочетающий Montessori и British EYFS. Публикует программы раннего развития, подготовки к школе, языковые и творческие занятия, а также транспорт для детей от двух лет в указанных районах.",
+      "services": [
+        "Дошкольное образование",
+        "Уход за детьми",
+        "Подготовка к школе",
+        "Арабский и французский языки",
+        "STEM и творческие занятия",
+        "Школьный транспорт по заявленным районам"
+      ],
+      "customer_types": [
+        "Семьи с маленькими детьми"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/first-path-montessori-early-childhood-center",
+          "title": "Montessori Early Childhood Center | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        },
+        {
+          "url": "https://firstpathedu.com/home",
+          "title": "First Path Montessori — Business Bay",
+          "checked": "2026-11-12",
+          "supports": [
+            "Building BB07, Bay Square; учебные подходы, возрастные программы, автобус."
+          ]
+        }
+      ],
+      "caveats": [
+        "На одной странице указаны разные нижние возрастные границы: 45 дней и 6 месяцев; условия приёма младенцев необходимо подтвердить."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "starbright-early-intervention-center",
       "name": "StarBright Early Intervention Center",
       "sector": "education",
       "specialty": "earlyintervention",
-      "building": null,
-      "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "building": 13,
+      "unit": "P08",
+      "source": "https://www.baysquare.ae/en/outlets/starbright-early-intervention-center",
+      "website": "https://starbrightcenter.com/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Мультидисциплинарный центр поддержки развития, коммуникации и психологического здоровья. Предлагает логопедию, occupational/psychomotor therapy, психологические услуги и оценки развития для детей, взрослых и семей.",
+      "services": [
+        "Логопедия и языковая терапия",
+        "Эрготерапия и психомоторная терапия",
+        "Психологические услуги",
+        "Оценка развития",
+        "Психолого-педагогическая диагностика"
+      ],
+      "customer_types": [
+        "Дети и подростки",
+        "Взрослые",
+        "Семьи"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/starbright-early-intervention-center",
+          "title": "Starbright Early Intervention Center | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        },
+        {
+          "url": "https://starbrightspeech.com/contact-us",
+          "title": "Star Bright — Contact Us",
+          "checked": "2026-11-12",
+          "supports": [
+            "Building 13, P08, Bay Square."
+          ]
+        },
+        {
+          "url": "https://starbrightcenter.com/",
+          "title": "Star Bright — Multidisciplinary Therapy",
+          "checked": "2026-11-12",
+          "supports": [
+            "Актуальные направления терапии и аудитории; старый корневой домен перенаправляет сюда."
+          ]
+        }
+      ],
+      "caveats": [
+        "Лицензирование заявлено на сайте центра, но независимая проверка актуальности лицензий не выполнена."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "desco-copy-center",
       "name": "DESCO Copy Center",
       "sector": "services",
       "specialty": "printing",
-      "building": null,
-      "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "building": 10,
+      "unit": "G-07",
+      "source": "https://www.baysquare.ae/en/outlets/desco-copy-center",
+      "website": "https://descoonline.com/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Копировально-печатный центр DESCO в здании 10. Отдельная страница Bay Square перечисляет цифровую и широкоформатную печать, бизнес-полиграфию, персонализированные подарки, печати и фотографии для документов.",
+      "services": [
+        "Цифровая и широкоформатная печать",
+        "Визитки, листовки и брошюры",
+        "Переплёт",
+        "Наклейки",
+        "Печать на футболках, кружках и подарках",
+        "Изготовление печатей",
+        "Фото на паспорт и визу",
+        "Самостоятельная печать"
+      ],
+      "customer_types": [
+        "Компании и бренды",
+        "Частные клиенты"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/desco-copy-center",
+          "title": "Desco Copy Center | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        },
+        {
+          "url": "https://descoonline.com/photo-studio-bay-square-business-bay",
+          "title": "DESCO Copy & Print Center — Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Unit BB10 G-07; branch-specific FAQ перечисляет услуги."
+          ]
+        }
+      ],
+      "caveats": [
+        "Общее рекламное заявление сети о работе 24/7 не означает круглосуточную работу этой точки; страница филиала имеет отдельные часы."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "emirates-nbd",
@@ -505,46 +2109,228 @@
       "specialty": "bank",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
+      "source": "https://www.baysquare.ae/en/outlets/emirates-nbd",
+      "website": "https://www.emiratesnbd.com/",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Банк Emirates NBD: личные и бизнес-счета, карты, кредитование и цифровой банкинг. Присутствие Bay Square подтверждает оператор комплекса; полный перечень доступных операций конкретного отделения пока не проверен.",
+      "services": [
+        "Счета и депозиты",
+        "Банковские карты",
+        "Кредитные продукты",
+        "Бизнес-банкинг",
+        "Онлайн-банкинг"
+      ],
+      "customer_types": [
+        "Физические лица",
+        "Малый и средний бизнес",
+        "Корпоративные клиенты"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/emirates-nbd",
+          "title": "Emirates NBD Bank | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        },
+        {
+          "url": "https://www.emiratesnbd.com/en",
+          "title": "Emirates NBD — Official website",
+          "checked": "2026-11-12",
+          "supports": [
+            "Направления услуг банка и типы клиентов; не branch-specific."
+          ]
+        }
+      ],
+      "caveats": [
+        "Услуги указаны на уровне банка, не гарантируются в данном отделении.",
+        "Точные здание и помещение не подтверждены доступным первичным источником."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "roc-citizenship",
       "name": "ROC Citizenship",
       "sector": "services",
       "specialty": "consulting",
-      "building": null,
-      "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "building": 13,
+      "unit": "P04",
+      "source": "https://www.baysquare.ae/en/outlets/roc-citizenship",
+      "website": "https://roccitizenship.com/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Консультант по резидентству, гражданству за инвестиции и международной мобильности. Компания также описывает сопровождение регистрации бизнеса в ОАЭ и Канаде, подготовку документов и консультации по инвестиционной миграции.",
+      "services": [
+        "Консультации по резидентству и гражданству",
+        "Сопровождение миграционных заявлений",
+        "Подготовка и перевод документов",
+        "Регистрация бизнеса в ОАЭ",
+        "Сопровождение бизнес-иммиграции в Канаду"
+      ],
+      "customer_types": [
+        "Частные инвесторы",
+        "Предприниматели",
+        "Семьи"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/roc-citizenship",
+          "title": "Roc Citizenship - Investment Solutions | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        },
+        {
+          "url": "https://roccitizenship.com/contact-us/",
+          "title": "ROC Citizenship — Contact",
+          "checked": "2026-11-12",
+          "supports": [
+            "Office P04, Building 13, Bay Square."
+          ]
+        },
+        {
+          "url": "https://roccitizenship.com/services/",
+          "title": "ROC Citizenship — Services",
+          "checked": "2026-11-12",
+          "supports": [
+            "Перечень заявленных консультационных и документарных услуг."
+          ]
+        }
+      ],
+      "caveats": [
+        "Перечисление услуг не подтверждает действительность конкретных визовых программ, правовую лицензию или гарантированный результат; сведения о программах требуют отдельной проверки у государственных органов."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "belle-femme-experience-spa",
       "name": "Belle Femme Experience SPA",
       "sector": "services",
       "specialty": "spa",
-      "building": null,
-      "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "building": 10,
+      "unit": "102",
+      "source": "https://www.baysquare.ae/en/outlets/belle-femme-experience-spa",
+      "website": "https://bellefemmeme.com/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Салон красоты Belle Femme. Официальный сайт называет точку Bay Square Hair & Nail Lounge; сеть предлагает услуги для волос, ногтей, ухода за кожей и красоты.",
+      "services": [
+        "Услуги для волос",
+        "Окрашивание и укладки",
+        "Уход за ногтями",
+        "Уходовые и beauty-процедуры сети"
+      ],
+      "customer_types": [
+        "Женщины — частные клиентки"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/belle-femme-experience-spa",
+          "title": "Belle Femme Experience SPA | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        },
+        {
+          "url": "https://bellefemmeme.com/contact/",
+          "title": "Belle Femme — Contact",
+          "checked": "2026-11-12",
+          "supports": [
+            "Bay Square Hair & Nail Lounge: Building 10, Unit 102."
+          ]
+        },
+        {
+          "url": "https://bellefemmeme.com/",
+          "title": "Belle Femme — Official website",
+          "checked": "2026-11-12",
+          "supports": [
+            "Основные направления услуг сети."
+          ]
+        }
+      ],
+      "caveats": [
+        "Оператор использует название Experience SPA, бренд — Hair & Nail Lounge; сохранён исходный ID, отражён вариант названия.",
+        "Не все spa-услуги сети подтверждены для Bay Square."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "josephine-nails",
       "name": "Josephine Nails",
       "sector": "services",
       "specialty": "nails",
-      "building": null,
-      "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
-      "evidence": "operator",
-      "checked": "2026-10-12"
+      "building": 11,
+      "unit": "4",
+      "source": "https://www.baysquare.ae/en/outlets/josephine-nails",
+      "website": "https://www.josephinenails.com/",
+      "evidence": "company",
+      "checked": "2026-11-12",
+      "description_ru": "Салон Joséphine Nails в здании 11 Bay Square. Официальный сайт выделяет услуги для рук и ног, уходовые процедуры, threading, waxing и выездной массаж.",
+      "services": [
+        "Уход за ногтями рук",
+        "Уход за ногтями ног",
+        "Уходовые процедуры",
+        "Threading",
+        "Восковая эпиляция",
+        "Выездной массаж"
+      ],
+      "customer_types": [
+        "Частные клиенты"
+      ],
+      "location_status": "company_confirmed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/josephine-nails",
+          "title": "Josephine Nails - Premium Nail Salon | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        },
+        {
+          "url": "https://www.josephinenails.com/contact-us.html",
+          "title": "Joséphine Nails — Contact Us",
+          "checked": "2026-11-12",
+          "supports": [
+            "Unit 4, Building 11, Bay Square; меню направлений услуг."
+          ]
+        }
+      ],
+      "caveats": [
+        "Не фиксировались цены из старых поисковых копий; актуальные услуги и стоимость требуют подтверждения."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "london-base-barbershop",
@@ -553,10 +2339,42 @@
       "specialty": "barber",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
+      "source": "https://www.baysquare.ae/en/outlets/londonbase",
       "website": "",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Мужская парикмахерская LondonBase. Оператор Bay Square описывает стрижки, оформление бороды, уходовые процедуры и продажу grooming-продуктов.",
+      "services": [
+        "Мужские стрижки",
+        "Оформление бороды",
+        "Уходовые процедуры",
+        "Средства мужского ухода"
+      ],
+      "customer_types": [
+        "Мужчины — частные клиенты"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/londonbase",
+          "title": "LondonBase | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        }
+      ],
+      "caveats": [
+        "Самостоятельный официальный сайт не установлен; londonbase.com относится к IT-компании и не использован.",
+        "Точные здание и помещение не подтверждены доступным первичным источником."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "mail-box-etc-office",
@@ -565,10 +2383,41 @@
       "specialty": "post",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
-      "website": "",
+      "source": "https://www.baysquare.ae/en/outlets/mail-box-etc-office",
+      "website": "https://mbegulf.com/",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Точка Mail Boxes Etc., сети центров деловых и логистических услуг. Оператор Bay Square обозначает логистику и отправку грузов; конкретные доступные услуги филиала требуют уточнения.",
+      "services": [
+        "Логистические услуги",
+        "Отправка посылок и грузов"
+      ],
+      "customer_types": [
+        "Бизнес-клиенты",
+        "Частные отправители"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/mail-box-etc-office",
+          "title": "Mail Box Etc - Logistics and Shipping Services | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        }
+      ],
+      "caveats": [
+        "Региональный сайт MBE Gulf и страница Bay Square найдены, но открытие вернуло 502/503; точный адрес и дополнительные услуги не импортированы из сниппетов.",
+        "Точные здание и помещение не подтверждены доступным первичным источником."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
     },
     {
       "id": "abdulla-hussein-typing",
@@ -577,10 +2426,233 @@
       "specialty": "typing",
       "building": null,
       "unit": "",
-      "source": "https://www.baysquare.ae/en/directory",
+      "source": "https://www.baysquare.ae/en/outlets/abdulla-hussein-typing",
       "website": "",
       "evidence": "operator",
-      "checked": "2026-10-12"
+      "checked": "2026-11-12",
+      "description_ru": "Typing-центр, представленный в каталоге оператора Bay Square. Описание конкретных услуг на доступной карточке отсутствует.",
+      "services": [
+        "Typing-услуги: конкретный перечень не опубликован"
+      ],
+      "customer_types": [
+        "Типы клиентов не уточнены"
+      ],
+      "location_status": "operator_listed",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/abdulla-hussein-typing",
+          "title": "Abdulla Hussain Typing Center | Bay Square",
+          "checked": "2026-11-12",
+          "supports": [
+            "Наличие отдельной карточки в каталоге оператора Bay Square; профиль бизнеса."
+          ]
+        }
+      ],
+      "caveats": [
+        "Не подтверждены услуги виз, Emirates ID, перевода, PRO или наличие статуса Amer/Tasheel; они не выводятся из названия.",
+        "Самостоятельный официальный сайт не установлен.",
+        "Точные здание и помещение не подтверждены доступным первичным источником."
+      ],
+      "previous_location_evidence": {
+        "building": null,
+        "unit": "",
+        "source": "https://www.baysquare.ae/en/directory",
+        "evidence": "operator",
+        "checked": "2026-10-12"
+      }
+    },
+    {
+      "id": "capelli-sport",
+      "name": "Capelli Sport",
+      "sector": "retail",
+      "specialty": "sportswear",
+      "website": "",
+      "description_ru": "Спортивная и повседневная одежда для взрослых и детей, с акцентом на командные виды спорта.",
+      "services": [
+        "sportswear",
+        "lifestyle apparel",
+        "football and basketball teamwear"
+      ],
+      "customer_types": [
+        "individuals",
+        "sports teams"
+      ],
+      "location_status": "operator_listed",
+      "building": null,
+      "unit": "",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/capelli-sport",
+          "title": "Bay Square: Capelli Sport",
+          "checked": "2026-11-12",
+          "supports": [
+            "Bay Square listing",
+            "products"
+          ]
+        }
+      ],
+      "caveats": [
+        "Exact building and unit are not published on the operator page.",
+        "Listed services describe the brand, not confirmed local stock."
+      ],
+      "source": "https://www.baysquare.ae/en/outlets/capelli-sport",
+      "checked": "2026-11-12",
+      "evidence": "operator"
+    },
+    {
+      "id": "la-maison",
+      "name": "La Maison",
+      "sector": "food",
+      "specialty": "cafe",
+      "website": "",
+      "description_ru": "Кафе в каталоге Bay Square: завтраки, кофе и лёгкие блюда по описанию оператора.",
+      "services": [
+        "breakfast",
+        "coffee",
+        "casual dining"
+      ],
+      "customer_types": [
+        "individuals"
+      ],
+      "location_status": "operator_listed",
+      "building": null,
+      "unit": "",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/la-maison",
+          "title": "Bay Square: La Maison",
+          "checked": "2026-11-12",
+          "supports": [
+            "Bay Square listing"
+          ]
+        },
+        {
+          "url": "https://www.baysquare.ae/en/blog/bay-square-guide-discover-unique-restaurants-in-business-bay",
+          "title": "Bay Square dining guide",
+          "checked": "2026-11-12",
+          "supports": [
+            "cafe offering"
+          ]
+        }
+      ],
+      "caveats": [
+        "Exact unit, independent website and current menu not confirmed."
+      ],
+      "source": "https://www.baysquare.ae/en/outlets/la-maison",
+      "checked": "2026-11-12",
+      "evidence": "operator"
+    },
+    {
+      "id": "leos-investment",
+      "name": "Leos Investment",
+      "sector": "realestate",
+      "specialty": "developer",
+      "website": "",
+      "description_ru": "В каталоге Bay Square LEOS представлен как девелопер жилой, коммерческой и многофункциональной недвижимости в ОАЭ и Великобритании.",
+      "services": [
+        "property development",
+        "development management",
+        "construction oversight",
+        "property sales",
+        "asset management"
+      ],
+      "customer_types": [
+        "property buyers",
+        "investors"
+      ],
+      "location_status": "operator_listed",
+      "building": null,
+      "unit": "",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/leos-investment",
+          "title": "Bay Square: Leos Investment",
+          "checked": "2026-11-12",
+          "supports": [
+            "operator listing",
+            "business activities"
+          ]
+        }
+      ],
+      "caveats": [
+        "Operator uses Leos Investment. A similarly branded LEOS Developments contact page exists, but legal-entity equivalence and exact unit are not established here.",
+        "No investment returns, delivery dates or inventory verified."
+      ],
+      "source": "https://www.baysquare.ae/en/outlets/leos-investment",
+      "checked": "2026-11-12",
+      "evidence": "operator"
+    },
+    {
+      "id": "tcm-bay-square-ladies-massage",
+      "name": "TCM - Bay Square Ladies Massage and Relaxation Center",
+      "sector": "beauty",
+      "specialty": "massage",
+      "website": "",
+      "description_ru": "Центр массажа и релаксации, который заявляет акупрессуру, рефлексологию, баночные процедуры и массаж туйна.",
+      "services": [
+        "acupressure",
+        "reflexology",
+        "cupping",
+        "Tui Na massage"
+      ],
+      "customer_types": [
+        "individuals"
+      ],
+      "location_status": "operator_listed",
+      "building": null,
+      "unit": "",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/tcm---bay-square-ladies-massage-and-relaxation-center",
+          "title": "Bay Square: TCM Massage and Relaxation Center",
+          "checked": "2026-11-12",
+          "supports": [
+            "operator listing",
+            "advertised treatments"
+          ]
+        }
+      ],
+      "caveats": [
+        "Medical efficacy, practitioner licensing and treatment suitability not independently verified.",
+        "Exact unit, operating hours and official company website unknown."
+      ],
+      "source": "https://www.baysquare.ae/en/outlets/tcm---bay-square-ladies-massage-and-relaxation-center",
+      "checked": "2026-11-12",
+      "evidence": "operator"
+    },
+    {
+      "id": "the-ace-gents-salon",
+      "name": "The Ace Gents Salon",
+      "sector": "beauty",
+      "specialty": "gents salon",
+      "website": "",
+      "description_ru": "Мужской салон, представленный в каталоге Bay Square. Подробный перечень услуг в первичном источнике не опубликован.",
+      "services": [],
+      "customer_types": [
+        "individuals"
+      ],
+      "location_status": "operator_listed",
+      "building": null,
+      "unit": "",
+      "sources": [
+        {
+          "url": "https://www.baysquare.ae/en/outlets/the-ace-gents-salon",
+          "title": "Bay Square: The Ace Gents Salon",
+          "checked": "2026-11-12",
+          "supports": [
+            "operator listing",
+            "business name"
+          ]
+        }
+      ],
+      "caveats": [
+        "Service menu, exact unit and company website not confirmed."
+      ],
+      "source": "https://www.baysquare.ae/en/outlets/the-ace-gents-salon",
+      "checked": "2026-11-12",
+      "evidence": "operator"
     }
-  ]
+  ],
+  "last_research_date": "2026-11-12",
+  "schema_version": 2
 }

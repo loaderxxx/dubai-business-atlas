@@ -1,0 +1,12 @@
+{
+  "before": 48,
+  "after": 53,
+  "existing_enriched": 48,
+  "new": 5,
+  "status": {
+    "company_confirmed": 26,
+    "conflicting": 4,
+    "operator_listed": 23
+  },
+  "unique_source_urls": 90
+}
